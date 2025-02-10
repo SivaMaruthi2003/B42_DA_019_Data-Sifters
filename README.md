@@ -101,7 +101,7 @@ Open **NBA Basketball.pbix** in Power BI Desktop to explore interactive visualiz
 
 ## 🎥 Video Presentation
 
-📽️ **Video Link:** [Insert Link Here]
+📽️ **Video Link:** [https://www.youtube.com/watch?v=meG3Ju0zMQ4]
 
 ## 💬 Feedback
 
